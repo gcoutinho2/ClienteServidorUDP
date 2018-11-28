@@ -1,0 +1,10 @@
+F:\Ex\ExUDP\ExUDP\bin\Debug\ExUDP.exe.config
+F:\Ex\ExUDP\ExUDP\bin\Debug\ExUDP.exe
+F:\Ex\ExUDP\ExUDP\bin\Debug\ExUDP.pdb
+F:\Ex\ExUDP\ExUDP\bin\Debug\LibUDP.dll
+F:\Ex\ExUDP\ExUDP\obj\Debug\ExUDP.csprojResolveAssemblyReference.cache
+F:\Ex\ExUDP\ExUDP\obj\Debug\ExUDP.Form1.resources
+F:\Ex\ExUDP\ExUDP\obj\Debug\ExUDP.Properties.Resources.resources
+F:\Ex\ExUDP\ExUDP\obj\Debug\ExUDP.csproj.GenerateResource.Cache
+F:\Ex\ExUDP\ExUDP\obj\Debug\ExUDP.exe
+F:\Ex\ExUDP\ExUDP\obj\Debug\ExUDP.pdb
